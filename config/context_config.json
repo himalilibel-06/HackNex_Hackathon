@@ -1,0 +1,15 @@
+{
+  "working_hours": {
+    "start": "08:00",
+    "end": "18:00"
+  },
+  "simulated_cctv_time": "22:14",
+  "is_outside_shift": true,
+  "restricted_zones": [
+    "Restricted Area"
+  ],
+  "vehicle_sensitive_zones": [
+    "Vehicle Lane"
+  ],
+  "max_allowed_idle_seconds_in_restricted": 5.0
+}

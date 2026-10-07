@@ -1,0 +1,15 @@
+{
+  "weights": {
+    "restricted_zone": 30,
+    "after_hours": 20,
+    "idle_in_restricted_zone": 20,
+    "vehicle_nearby": 25,
+    "running": 10,
+    "long_stationary_duration": 10
+  },
+  "levels": {
+    "low_max": 29,
+    "medium_max": 59,
+    "high_max": 79
+  }
+}

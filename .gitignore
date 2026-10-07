@@ -1,0 +1,39 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environments
+venv/
+env/
+ENV/
+
+# YOLO & Weights
+*.pt
+yolov8*.pt
+
+# Outputs & Temporary Data
+videos/processed/*
+!videos/processed/.gitkeep
+output/annotated/*
+!output/annotated/.gitkeep
+output/evidence/*
+!output/evidence/.gitkeep
+output/reports/*
+!output/reports/.gitkeep
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Frontend
+node_modules/
+dist/
+frontend/node_modules/
+frontend/dist/
+
+# Raw videos
+videos/raw/*.mp4

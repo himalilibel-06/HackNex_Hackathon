@@ -1,0 +1,22 @@
+{
+  "zones": [
+    {
+      "name": "Storage Area",
+      "type": "normal",
+      "color": [0, 255, 0],
+      "polygon": [[50, 200], [500, 200], [500, 700], [50, 700]]
+    },
+    {
+      "name": "Restricted Area",
+      "type": "restricted",
+      "color": [0, 0, 255],
+      "polygon": [[510, 200], [900, 200], [900, 700], [510, 700]]
+    },
+    {
+      "name": "Vehicle Lane",
+      "type": "vehicle_zone",
+      "color": [255, 165, 0],
+      "polygon": [[910, 200], [1250, 200], [1250, 700], [910, 700]]
+    }
+  ]
+}
