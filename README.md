@@ -238,10 +238,10 @@ SafeSight directly addresses this problem statement by providing continuous, aut
 
 ## 👥 Team
 
-- **Hima Lilibel A** – Team Leader
-- **Rithanya S**
-- **Mridula A V**
-- **Raajaganapathy V**
+- **Hima Lilibel A** – Team Leader & Project Coordinator
+- **Rithanya S** – AI / Computer Vision & Backend Developer
+- **Mridula A V** – Frontend Developer & UI/UX Designer
+- **Raajaganapathy V** – Testing, Integration & Documentation
 
 ## 📜 Acknowledgements
 
